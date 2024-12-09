@@ -21,4 +21,4 @@ tracing = { version = "0.1.41", features = ["attributes"] }
 url = "2.5.4"
 
 [dev-dependencies]
-tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
